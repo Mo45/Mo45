@@ -4,7 +4,6 @@ I'm work with PHP/MySQL & Steam/Discord API's.
 ---
 
 [View my website: **krasin.space**](https://krasin.space/)
-
 [Follow me on twitter: **@Mo_45**](https://twitter.com/Mo_45)
 
 <!--
