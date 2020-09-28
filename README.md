@@ -1,4 +1,10 @@
 ### Hi there 👋
+I'm work with PHP/MySQL & Steam/Discord API's. 
+
+---
+
+[View my website: **krasin.space**](https://krasin.space/) 
+[Follow me on twitter: **@Mo_45**](https://twitter.com/Mo_45)
 
 <!--
 **Mo45/Mo45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
